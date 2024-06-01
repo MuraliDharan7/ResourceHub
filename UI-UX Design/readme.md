@@ -195,12 +195,20 @@ This curated collection offers valuable UI (User Interface) and UX (User Experie
   </tr>
   <tr>
     <td><a href="https://whatusersdo.com/" target="_blank">WhatUsersDo</a></td>
-    <td>WhatUsersDo is a user testing platform that allows you to gain valuable insights into how users interact with your desig</td>
+    <td>WhatUsersDo is a user testing platform that allows you to gain valuable insights into how users interact with your design.</td>
   </tr>
   <tr>
     <td><a href="https://goodbrief.io/" target="_blank">Good Brief</a></td>
     <td>Goodbrief is an online tool that generates custom design briefs for various creative projects. It helps designers quickly receive concise, randomized briefs to inspire their work.</td>
-    </tr>
+  </tr>
+  <tr>
+    <td><a href="https://goodbrief.io/" target="_blank">Good Brief</a></td>
+    <td>Goodbrief is an online tool that generates custom design briefs for various creative projects. It helps designers quickly receive concise, randomized briefs to inspire their work.</td>
+  </tr>
+  <tr>
+    <td><a href="https://goodbrief.io/" target="_blank">Good Brief</a></td>
+    <td>Goodbrief is an online tool that generates custom design briefs for various creative projects. It helps designers quickly receive concise, randomized briefs to inspire their work.</td>
+  </tr>
   </table>
 
 ### Design Inspiration
